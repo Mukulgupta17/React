@@ -1,0 +1,30 @@
+
+.cnt{
+
+    border: 2px solid rgba(27, 7, 207, 0.925);
+    height: 453px;
+    width: 168px;
+    padding: 20px;
+    background-color: rgb(162, 167, 120);
+}
+
+.butn{
+    color: rgb(128, 10, 163);
+    border-radius: 5px;
+    margin: 3px;
+}
+.imag{
+    border: 2px solid red;
+    height: 178px;
+    width: 113px;
+}
+
+.para{
+    text-align: center;
+    margin: 11px;
+    font-size: large;
+}
+h3{
+    font-size: 1.1rem;
+    font-style: italic;
+}

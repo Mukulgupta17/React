@@ -1,0 +1,14 @@
+.contn{
+    border: 2px solid red;
+    margin: 20px;
+    padding: 40px;
+    display: flex;
+}
+.paym{
+    padding: 20px;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.cont button{
+    border: 2px solid red;
+}
